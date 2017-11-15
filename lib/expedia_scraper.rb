@@ -1,0 +1,3 @@
+class ExpediaScarper do
+
+end 
